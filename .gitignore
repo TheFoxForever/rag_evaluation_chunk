@@ -1,0 +1,8 @@
+# Data files removed for size considerations #
+##############
+raw_data/*
+chunked_data/*
+
+# Private Docs #
+#############################
+secrets.txt
