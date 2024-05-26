@@ -1,0 +1,2763 @@
+[
+    {
+        "Filename": "aa23-278a_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best ways for mitigating the risks associated with storing sensitive information in web applications",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "ar23-209a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What information can the attacker obtain from a BSMTP server by sending an encoded or encrypted input",
+        "Answers": {
+            "1 Docs": "us-cert.gov (anonymous) CISA encourages you",
+            "3 Docs": "us-cert.gov (anonymous) CISA encourages you",
+            "5 Docs": "us-cert.gov (anonymous) CISA encourages you",
+            "10 Docs": "us-cert.gov (anonymous) CISA encourages you"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-11_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the provided CVEs and how can they be exploited",
+        "Answers": {
+            "1 Docs": "3.",
+            "3 Docs": "3.",
+            "5 Docs": "3.",
+            "10 Docs": "3."
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some ways to secure the factory default settings on computer and software products",
+        "Answers": {
+            "1 Docs": "such as viruses, worms",
+            "3 Docs": "such as viruses, worms",
+            "5 Docs": "such as viruses, worms",
+            "10 Docs": "such as viruses, worms"
+        }
+    },
+    {
+        "Filename": "aa23-325a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of providing the IOC and TLPs associated Lock Bit   3 0 in the joint cybersecurity advisory",
+        "Answers": {
+            "1 Docs": "variety of TTPs commonly associated",
+            "3 Docs": "variety of TTPs commonly associated",
+            "5 Docs": "variety of TTPs commonly associated",
+            "10 Docs": "variety of TTPs commonly associated"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-11_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using external-control format strings in web pages",
+        "Answers": {
+            "1 Docs": "0.0 through 7.0.11, 6.4",
+            "3 Docs": "0.0 through 7.0.11, 6.4",
+            "5 Docs": "0.0 through 7.0.11, 6.4",
+            "10 Docs": "0.0 through 7.0.11, 6.4"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best practices for mitigating default configurations on software applications",
+        "Answers": {
+            "1 Docs": "3-UBA].[40",
+            "3 Docs": "3-UBA].[40",
+            "5 Docs": "3-UBA].[40",
+            "10 Docs": "3-UBA].[40"
+        }
+    },
+    {
+        "Filename": "ar23-243a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of collecting and collATING information on active devices",
+        "Answers": {
+            "1 Docs": "2P network application (td",
+            "3 Docs": "2P network application (td",
+            "5 Docs": "2P network application (td",
+            "10 Docs": "2P network application (td"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_7.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the value of \"2\" in \"name\" within the passage",
+        "Answers": {
+            "1 Docs": "2023-39417 has been assigned to this vulnerability",
+            "3 Docs": "2023-39417 has been assigned to this vulnerability",
+            "5 Docs": "2023-39417 has been assigned to this vulnerability",
+            "10 Docs": "2023-39417 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_11.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using `#cGO LDFLAG` when building a Go program",
+        "Answers": {
+            "1 Docs": "CWE-330 c-ares is an asynchronous resolver library",
+            "3 Docs": "CWE-330 c-ares is an asynchronous resolver library",
+            "5 Docs": "CWE-330 c-ares is an asynchronous resolver library",
+            "10 Docs": "CWE-330 c-ares is an asynchronous resolver library"
+        }
+    },
+    {
+        "Filename": "aa23-074a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of uploading malicious code to C\\Windows \\Temp \\ directory",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_13.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the _x-key-data_ variable in _kadmind5",
+        "Answers": {
+            "1 Docs": "CISA at this time. 5. UPDATE HISTORY February 15",
+            "3 Docs": "CISA at this time. 5. UPDATE HISTORY February 15",
+            "5 Docs": "CISA at this time. 5. UPDATE HISTORY February 15",
+            "10 Docs": "CISA at this time. 5. UPDATE HISTORY February 15"
+        }
+    },
+    {
+        "Filename": "aa23-250a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of dropping an ASPx web sheller on an Owa server",
+        "Answers": {
+            "1 Docs": "1564.003",
+            "3 Docs": "1564.003",
+            "5 Docs": "1564.003",
+            "10 Docs": "1564.003"
+        }
+    },
+    {
+        "Filename": "aa23-325a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the lock file and how can it be exploited to gain access or control of a system",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa20-352a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of investigating the incidents where activity indicates abuse  of SAML tokens",
+        "Answers": {
+            "1 Docs": "15, 2021",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "aa23-215a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the top 5 most frequently exploited vulnerability classes according to this passage",
+        "Answers": {
+            "1 Docs": "9.2] Prioritize secure-by-default configurations such",
+            "3 Docs": "9.2] Prioritize secure-by-default configurations such",
+            "5 Docs": "9.2] Prioritize secure-by-default configurations such",
+            "10 Docs": "9.2] Prioritize secure-by-default configurations such"
+        }
+    },
+    {
+        "Filename": "aa22-055a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using obfuscating techniques in malware",
+        "Answers": {
+            "1 Docs": "reputation email addresses, files, URLs",
+            "3 Docs": "reputation email addresses, files, URLs",
+            "5 Docs": "reputation email addresses, files, URLs",
+            "10 Docs": "reputation email addresses, files, URLs"
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the main purpose of disabling UPNP when its not required",
+        "Answers": {
+            "1 Docs": "\u201d with overly permissive factory-default configurations intended",
+            "3 Docs": "\u201d with overly permissive factory-default configurations intended",
+            "5 Docs": "\u201d with overly permissive factory-default configurations intended",
+            "10 Docs": "\u201d with overly permissive factory-default configurations intended"
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the best way to secure your WiFi router",
+        "Answers": {
+            "1 Docs": "\u2019s website to monitor for unauthorized devices joining or attempting",
+            "3 Docs": "\u2019s website to monitor for unauthorized devices joining or attempting",
+            "5 Docs": "\u2019s website to monitor for unauthorized devices joining or attempting",
+            "10 Docs": "\u2019s website to monitor for unauthorized devices joining or attempting"
+        }
+    },
+    {
+        "Filename": "aa23-061a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing a password policy according the NIST standards",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": ".e",
+            "5 Docs": ".e",
+            "10 Docs": ".e"
+        }
+    },
+    {
+        "Filename": "aa22-117a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best practices for managing internet facing equipment and protecting against vulnerabilities",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": "addition to a network firewall, consider installing a firewall on all computers connected"
+        }
+    },
+    {
+        "Filename": "aa20-301a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of setting the privileges in Figure one   What are the methods used by attackers to achieve this privilege escalation",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "aa22-320a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of disabling Windows defender via GUI and implanting NGROk executable and configurations files",
+        "Answers": {
+            "1 Docs": "Mimikatz to harvest credentials. Mitigation",
+            "3 Docs": "Mimikatz to harvest credentials. Mitigation",
+            "5 Docs": "Mimikatz to harvest credentials. Mitigation",
+            "10 Docs": "Mimikatz to harvest credentials. Mitigation"
+        }
+    },
+    {
+        "Filename": "aa22-158a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of configuring the remote interface and updating the IP addresses on it",
+        "Answers": {
+            "1 Docs": "cisa.dhs.gov FBI National Press Office, 202",
+            "3 Docs": "cisa.dhs.gov FBI National Press Office, 202",
+            "5 Docs": "cisa.dhs.gov FBI National Press Office, 202",
+            "10 Docs": "cisa.dhs.gov FBI National Press Office, 202"
+        }
+    },
+    {
+        "Filename": "aa21-209a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of reading the file sslVPN_webession and what could be the potential consequences of doing so",
+        "Answers": {
+            "1 Docs": "https://media.defense.gov",
+            "3 Docs": "https://media.defense.gov",
+            "5 Docs": "https://media.defense.gov",
+            "10 Docs": "https://media.defense.gov"
+        }
+    },
+    {
+        "Filename": "aa23-158a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing application control to block both outbound and inbound connections to common software applications",
+        "Answers": {
+            "1 Docs": "2.N]. Restrict the use",
+            "3 Docs": "2.N]. Restrict the use",
+            "5 Docs": "2.N]. Restrict the use",
+            "10 Docs": "2.N]. Restrict the use"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_9.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of the vulnerability in the getalias method of bluetoothdevice. java   How can the exploit be carried out",
+        "Answers": {
+            "1 Docs": "2P device address in PD Request frame in Snapdragon Auto, Snapdragon Compute",
+            "3 Docs": "2P device address in PD Request frame in Snapdragon Auto, Snapdragon Compute",
+            "5 Docs": "2P device address in PD Request frame in Snapdragon Auto, Snapdragon Compute",
+            "10 Docs": "2P device address in PD Request frame in Snapdragon Auto, Snapdragon Compute"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of exploiting these vulnerability on a Siemens network",
+        "Answers": {
+            "1 Docs": "PEM_write_bio",
+            "3 Docs": "PEM_write_bio",
+            "5 Docs": "PEM_write_bio",
+            "10 Docs": "PEM_write_bio"
+        }
+    },
+    {
+        "Filename": "aa23-136a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of adding useraccounts to RemoteDesktop Users Group",
+        "Answers": {
+            "1 Docs": "Table 2",
+            "3 Docs": "Table 2",
+            "5 Docs": "Table 2",
+            "10 Docs": "Table 2"
+        }
+    },
+    {
+        "Filename": "aa23-215a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the two new vulnerabilities associated  with Microsoft  Exchange",
+        "Answers": {
+            "1 Docs": "0.6, FortiProxy version 7.2",
+            "3 Docs": "0.6, FortiProxy version 7.2",
+            "5 Docs": "0.6, FortiProxy version 7.2",
+            "10 Docs": "0.6, FortiProxy version 7.2"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-10_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the length of hostname that the function can handle",
+        "Answers": {
+            "1 Docs": "cisa.gov",
+            "3 Docs": "cisa.gov",
+            "5 Docs": "cisa.gov",
+            "10 Docs": "cisa.gov"
+        }
+    },
+    {
+        "Filename": "aa23-339a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing application-aware defenses in the context of cybersecurity",
+        "Answers": {
+            "1 Docs": "products,",
+            "3 Docs": "products,",
+            "5 Docs": "products,",
+            "10 Docs": "products,"
+        }
+    },
+    {
+        "Filename": "aa23-187a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using removable drives in the context of malicious activity",
+        "Answers": {
+            "1 Docs": "2 =",
+            "3 Docs": "2 =",
+            "5 Docs": "2 =",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the main purpose of implementing phishing resistant MFA",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of splitting the string arguments in git",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "ar21-134a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of rotating secrets related to remote MFA tokens",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": ".e",
+            "5 Docs": ".e",
+            "10 Docs": ".e"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_12.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of the out of-bound read vulnerability in f dt_ path_ offset_ namelen",
+        "Answers": {
+            "1 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer",
+            "3 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer",
+            "5 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer",
+            "10 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the time complexitiy of converting an OBJECT_IDENTIFIER to it s decimal equivalent",
+        "Answers": {
+            "1 Docs": "SIV implementation in OpenSSL just returns success for such a call instead",
+            "3 Docs": "SIV implementation in OpenSSL just returns success for such a call instead",
+            "5 Docs": "SIV implementation in OpenSSL just returns success for such a call instead",
+            "10 Docs": "SIV implementation in OpenSSL just returns success for such a call instead"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-11_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the recommended mitigation for CVE - 03432",
+        "Answers": {
+            "1 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer",
+            "3 Docs": "7.8 has been assigned",
+            "5 Docs": "7.8 has been assigned",
+            "10 Docs": "7.8 has been assigned"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_12.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using a random seed generator in a cryptographic application",
+        "Answers": {
+            "1 Docs": "3.",
+            "3 Docs": "3.",
+            "5 Docs": "3.",
+            "10 Docs": "3."
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of this security advisory on Android devices",
+        "Answers": {
+            "1 Docs": "3.",
+            "3 Docs": "3.",
+            "5 Docs": "3.",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_7.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of upgrading the past commits mentioned in these vulnerabilities",
+        "Answers": {
+            "1 Docs": "7.5 has been assigned",
+            "3 Docs": "7.8 has been assigned",
+            "5 Docs": "7.8 has been assigned",
+            "10 Docs": "7.8 has been assigned"
+        }
+    },
+    {
+        "Filename": "aa22-277a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some of these suspicious activities that could indicate that a potential threat is present",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": "54.217[.]2 and removed mde.ps"
+        }
+    },
+    {
+        "Filename": "aa23-319a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the passage   What are some of its key takeaways",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "aa21-062a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the updated mitigations for Microsoft Office 64",
+        "Answers": {
+            "1 Docs": "19, 2021",
+            "3 Docs": "19, 2021",
+            "5 Docs": "19, 2021",
+            "10 Docs": "19, 2021"
+        }
+    },
+    {
+        "Filename": "ar21-134a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some of the key steps that should take place during the pre-eviction phase of Category3 organizations mitigation plan",
+        "Answers": {
+            "1 Docs": "/or monitor high-risk ports (e.g",
+            "3 Docs": "/or monitor high-risk ports (e.g",
+            "5 Docs": "/or monitor high-risk ports (e.g",
+            "10 Docs": "/or monitor high-risk ports (e.g"
+        }
+    },
+    {
+        "Filename": "aa23-201a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the vulnerability that allows threat actor to exploit the CVE",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "ar23-243a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of running the NdbR utility",
+        "Answers": {
+            "1 Docs": "NDBR",
+            "3 Docs": "NDBR",
+            "5 Docs": "NDBR",
+            "10 Docs": "NDBR"
+        }
+    },
+    {
+        "Filename": "aa23-136a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using PowerShell to enable the installation of remote access tools on victims systems",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa21-209a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the Top 5 most commonly targeted vulnerability by hackers in the last two year",
+        "Answers": {
+            "1 Docs": "mitigations, if provided by the vendor. If an organization is unable",
+            "3 Docs": "mitigations, if provided by the vendor. If an organization is unable",
+            "5 Docs": "mitigations, if provided by the vendor. If an organization is unable",
+            "10 Docs": "mitigations, if provided by the vendor. If an organization is unable"
+        }
+    },
+    {
+        "Filename": "aa20-301a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the passage  What are the key takeaways from the text",
+        "Answers": {
+            "1 Docs": ".S. National Security Think Tanks [23] CYWARE Social",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of matching wildcard characters in a Subject Alternative Names (SAN) in SSL certificates",
+        "Answers": {
+            "1 Docs": "/A:N). 3.",
+            "3 Docs": "/A:N). 3.",
+            "5 Docs": "/A:N). 3.",
+            "10 Docs": "/A:N). 3."
+        }
+    },
+    {
+        "Filename": "aa24-109a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best practices to protect systems from the newly observed variant, \"Akira v2\"",
+        "Answers": {
+            "1 Docs": "multilayered approach tailors encryption methods based",
+            "3 Docs": "multilayered approach tailors encryption methods based",
+            "5 Docs": "multilayered approach tailors encryption methods based",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the `d2 i_PKCS 8` function",
+        "Answers": {
+            "1 Docs": "STRING. When CRL checking is enabled (i.e",
+            "3 Docs": "STRING. When CRL checking is enabled (i.e",
+            "5 Docs": "STRING. When CRL checking is enabled (i.e",
+            "10 Docs": "STRING. When CRL checking is enabled (i.e"
+        }
+    },
+    {
+        "Filename": "aa21-062a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of running the \"Test-proxyLogons.p1\" script",
+        "Answers": {
+            "1 Docs": "10, 2021",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "54.217[.]2 and removed mde.ps"
+        }
+    },
+    {
+        "Filename": "aa20-301a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of collecting data through the keystroke logger and sending the copy to different accounts",
+        "Answers": {
+            "1 Docs": "TeamViewer client netsvcs.exe.[58",
+            "3 Docs": "TeamViewer client netsvcs.exe.[58",
+            "5 Docs": "TeamViewer client netsvcs.exe.[58",
+            "10 Docs": "TeamViewer client netsvcs.exe.[58"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the passage",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "aa23-144a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is an effective way to identify and mitigate this threat",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "aa23-215a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the patch manager system and how does it help in patch application priorititization",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": ".e",
+            "5 Docs": ".e",
+            "10 Docs": ".e"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of setting `multiprocessing. util. abstract_socket_support_false` to `False`",
+        "Answers": {
+            "1 Docs": "CWE-203 A timing side channel in the handling",
+            "3 Docs": "CWE-203 A timing side channel in the handling",
+            "5 Docs": "CWE-203 A timing side channel in the handling",
+            "10 Docs": "CWE-203 A timing side channel in the handling"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of the double-free vulnerability in s dp_ discovery. cc",
+        "Answers": {
+            "1 Docs": "lead to local information disclosure of contact data with no additional execution privileges needed",
+            "3 Docs": "lead to local information disclosure of contact data with no additional execution privileges needed",
+            "5 Docs": "lead to local information disclosure of contact data with no additional execution privileges needed",
+            "10 Docs": "lead to local information disclosure of contact data with no additional execution privileges needed"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of detecting a VPN connection to an external server within an industrial automation system",
+        "Answers": {
+            "1 Docs": "such as the System32 directory. For example",
+            "3 Docs": "6, 2021",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa23-215a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the 5 most frequently reported vulnerabilities exploited  by malicious actors",
+        "Answers": {
+            "1 Docs": "2021-31207, CVE-2021-34523",
+            "3 Docs": "2021-31207, CVE-2021-34523",
+            "5 Docs": "2021-31207, CVE-2021-34523",
+            "10 Docs": "2021-31207, CVE-2021-34523"
+        }
+    },
+    {
+        "Filename": "aa21-209a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the immediate threat posed by exploiting the vulnerabilities in Domain controllers",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "aa20-275a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of monitoring and reporting database ( RDB ) version2",
+        "Answers": {
+            "1 Docs": "dhs.gov (UNCLASS) CISA encourages you",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the highest severity of vulnerability listed in CVss v  3",
+        "Answers": {
+            "1 Docs": "3.2.13 NULL POINTER DEREFERENCE CWE",
+            "3 Docs": "3.2.13 NULL POINTER DEREFERENCE CWE",
+            "5 Docs": "3.2.13 NULL POINTER DEREFERENCE CWE",
+            "10 Docs": "3.2.13 NULL POINTER DEREFERENCE CWE"
+        }
+    },
+    {
+        "Filename": "aa23-144a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of creating a folder hierarchy in C\\Windows\\<path> for storing the copied nt ds. dit and system registry files",
+        "Answers": {
+            "1 Docs": "SECURITY <path specified in command",
+            "3 Docs": "SECURITY <path specified in command",
+            "5 Docs": "SECURITY <path specified in command",
+            "10 Docs": "SECURITY <path specified in command"
+        }
+    },
+    {
+        "Filename": "aa23-215a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the HTTP server vulnerability mentioned in this passage",
+        "Answers": {
+            "1 Docs": "0.15 and earlier and FortiProxy SSL-VPN 7.2",
+            "3 Docs": "0.15 and earlier and FortiProxy SSL-VPN 7.2",
+            "5 Docs": "0.15 and earlier and FortiProxy SSL-VPN 7.2",
+            "10 Docs": "0.15 and earlier and FortiProxy SSL-VPN 7.2"
+        }
+    },
+    {
+        "Filename": "aa20-352a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of checking the timestamps of SAMLL tokens to determine if they were issued within the hour before or after the login time",
+        "Answers": {
+            "1 Docs": "https://documentation",
+            "3 Docs": "https://documentation",
+            "5 Docs": "https://documentation",
+            "10 Docs": "https://documentation"
+        }
+    },
+    {
+        "Filename": "aa23-074a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of centralizing log data and implementing long retention periods for incident analysis",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": "6, 2021",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa23-347a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the registry hives used in this attack  Why were they used, what data was stored, how was the data accessed,  and what was used for malicious purposes",
+        "Answers": {
+            "1 Docs": "sort of pattern or trend, aside",
+            "3 Docs": "sort of pattern or trend, aside",
+            "5 Docs": "sort of pattern or trend, aside",
+            "10 Docs": "sort of pattern or trend, aside"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the potential risks associated with compromised krBTgt credentials",
+        "Answers": {
+            "1 Docs": "workstations. For example",
+            "3 Docs": "workstations. For example",
+            "5 Docs": "workstations. For example",
+            "10 Docs": "workstations. For example"
+        }
+    },
+    {
+        "Filename": "aa22-158a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the most common network vulnerabilities that PRC State-Sponsored Cyber Actors exploit in their attacks",
+        "Answers": {
+            "1 Docs": "PRC state-sponsored",
+            "3 Docs": "PRC state-sponsored",
+            "5 Docs": "PRC state-sponsored",
+            "10 Docs": "PRC state-sponsored"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using an Invalid Public Key to sign an X5 01 certificate",
+        "Answers": {
+            "1 Docs": "1.19",
+            "3 Docs": "1.19",
+            "5 Docs": "1.19",
+            "10 Docs": "1.19"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_9.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the recommended measures for protecting oneself from phishing attacks",
+        "Answers": {
+            "1 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer",
+            "3 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer",
+            "5 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer",
+            "10 Docs": "Avoiding Email Scams for more information on avoiding email scams. Refer"
+        }
+    },
+    {
+        "Filename": "aa24-109a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the recommended approach for validating security control inventory against ATT & CK techniques",
+        "Answers": {
+            "1 Docs": "does not constitute or imply endorsement, recommendation",
+            "3 Docs": "does not constitute or imply endorsement, recommendation",
+            "5 Docs": "does not constitute or imply endorsement, recommendation",
+            "10 Docs": "does not constitute or imply endorsement, recommendation"
+        }
+    },
+    {
+        "Filename": "aa23-074a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the importance and role of network segmentations in preventing threat actors from lateral movements within a network",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa23-320a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing a security monitoring and reporting tool  How can this tool help in identifying and preventing ransomware attacks",
+        "Answers": {
+            "1 Docs": "products, processes",
+            "3 Docs": "products, processes",
+            "5 Docs": "products, processes",
+            "10 Docs": "CK techniques identified in this advisory"
+        }
+    },
+    {
+        "Filename": "aa21-008a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is another way of detecting suspicious activity related to domain and federations modifications",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "aa23-325a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best ways to protect sensitive and proprietary information and server data in an environment where PsEXEC operations are required",
+        "Answers": {
+            "1 Docs": "NetScaler Gateway Security Bulletin for CVE-2023-4966[2",
+            "3 Docs": "NetScaler Gateway Security Bulletin for CVE-2023-4966[2",
+            "5 Docs": "NetScaler Gateway Security Bulletin for CVE-2023-4966[2",
+            "10 Docs": "NetScaler Gateway Security Bulletin for CVE-2023-4966[2"
+        }
+    },
+    {
+        "Filename": "aa23-339a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of enabling multi-factor Authentication ( MFA) on web services",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "aa23-250a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the Hello world string in an attackers initial communication with a target system",
+        "Answers": {
+            "1 Docs": "Actors initiated multiple TLS",
+            "3 Docs": "Actors initiated multiple TLS",
+            "5 Docs": "Actors initiated multiple TLS",
+            "10 Docs": "Actors initiated multiple TLS"
+        }
+    },
+    {
+        "Filename": "aa23-201a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implanting the Ex executable and linkable format (elf) on a victims system",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": "&CK Techniques",
+            "10 Docs": "&CK Techniques"
+        }
+    },
+    {
+        "Filename": "aa23-319a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best practices to protect organizations from Rhysada ransomware",
+        "Answers": {
+            "1 Docs": "[T1069",
+            "3 Docs": "[T1069",
+            "5 Docs": "[T1069",
+            "10 Docs": "[T1069"
+        }
+    },
+    {
+        "Filename": "aa21-209a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using AsyncuploadHandler object in Rce vulnerability",
+        "Answers": {
+            "1 Docs": "2020-1472 Vulnerability Details Microsoft Netlogon Elevation",
+            "3 Docs": "2020-1472 Vulnerability Details Microsoft Netlogon Elevation",
+            "5 Docs": "2020-1472 Vulnerability Details Microsoft Netlogon Elevation",
+            "10 Docs": "2020-1472 Vulnerability Details Microsoft Netlogon Elevation"
+        }
+    },
+    {
+        "Filename": "aa22-158a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of providing this information",
+        "Answers": {
+            "1 Docs": "4.2.3",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_10.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of extracting and displaying details of successful login events in an ActiveDirectory environment",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": "&CK Techniques",
+            "10 Docs": "&CK Techniques"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of this bug on the security of a container running on Kubernetes",
+        "Answers": {
+            "1 Docs": "1.6.12 and 1.5",
+            "3 Docs": "1.6.12 and 1.5",
+            "5 Docs": "1.6.12 and 1.5",
+            "10 Docs": "1.6.12 and 1.5"
+        }
+    },
+    {
+        "Filename": "ar21-134a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the 5-day internet disconnect for agency network",
+        "Answers": {
+            "1 Docs": "729-2472) Email",
+            "3 Docs": "729-2472) Email",
+            "5 Docs": "729-2472) Email",
+            "10 Docs": "729-2472) Email"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of the out of-bound write vulnerability in the BtmScn.c file",
+        "Answers": {
+            "1 Docs": "2021-0604 has been assigned to this vulnerability",
+            "3 Docs": "2021-0604 has been assigned to this vulnerability",
+            "5 Docs": "2021-0604 has been assigned to this vulnerability",
+            "10 Docs": "2021-0604 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "aa23-074a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is a string that appears in both events but has different timestamps",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "aa20-245a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some best-practice mitigation strategies that should be implemented to avoid exposing the presence of an adversary in a computer network",
+        "Answers": {
+            "1 Docs": "/or system owners are often tempted",
+            "3 Docs": "/or system owners are often tempted",
+            "5 Docs": "/or system owners are often tempted",
+            "10 Docs": "/or system owners are often tempted"
+        }
+    },
+    {
+        "Filename": "aa22-277a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing network segmentations to protect against APT",
+        "Answers": {
+            "1 Docs": "Bureau of Investigation (FBI), and the National Security Agency (NSA",
+            "3 Docs": "Bureau of Investigation (FBI), and the National Security Agency (NSA",
+            "5 Docs": "Bureau of Investigation (FBI), and the National Security Agency (NSA",
+            "10 Docs": "Bureau of Investigation (FBI), and the National Security Agency (NSA"
+        }
+    },
+    {
+        "Filename": "aa23-165a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the percentage of ransomware-related activity that is attributed specifically to Lockbit affiliates",
+        "Answers": {
+            "1 Docs": "\u2019s network",
+            "3 Docs": "\u2019s network",
+            "5 Docs": "\u2019s network",
+            "10 Docs": "\u2019s network"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best ways to mitigate the risk of malware infection on IoT devices",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": "addition to a network firewall, consider installing a firewall on all computers connected"
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "How can users improve their homes network security by following the mitigation strategies mentioned in the passage",
+        "Answers": {
+            "1 Docs": "\u201d with overly permissive factory-default configurations intended",
+            "3 Docs": "\u201d with overly permissive factory-default configurations intended",
+            "5 Docs": "\u201d with overly permissive factory-default configurations intended",
+            "10 Docs": "\u201d with overly permissive factory-default configurations intended"
+        }
+    },
+    {
+        "Filename": "aa20-245a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is a key recommendation for securing sensitive network information",
+        "Answers": {
+            "1 Docs": "Sensitive",
+            "3 Docs": "Sensitive",
+            "5 Docs": "Sensitive",
+            "10 Docs": "Sensitive"
+        }
+    },
+    {
+        "Filename": "aa23-213a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the critical authorization bypass vulnerability that allows attackers to potentially gain full access and control over Ivaniti Endpoint Management Mobile",
+        "Answers": {
+            "1 Docs": "JSON, 250",
+            "3 Docs": "JSON, 250",
+            "5 Docs": "JSON, 250",
+            "10 Docs": "JSON, 250"
+        }
+    },
+    {
+        "Filename": "aa20-275a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the most effective ways to prevent and mitigate the threat of adversary Malware using the recommended actions",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": ".e",
+            "5 Docs": ".e",
+            "10 Docs": ".e"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best practices to prevent lateral spread and maintain network security",
+        "Answers": {
+            "1 Docs": "/or \u201cSIM swap\u201d techniques. These attempts, if successful",
+            "3 Docs": "/or \u201cSIM swap\u201d techniques. These attempts, if successful",
+            "5 Docs": ".g",
+            "10 Docs": "addition to a network firewall, consider installing a firewall on all computers connected"
+        }
+    },
+    {
+        "Filename": "aa22-277a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the `set. exe` command to modify the environment",
+        "Answers": {
+            "1 Docs": "import-module .\\vmware",
+            "3 Docs": "import-module .\\vmware",
+            "5 Docs": "import-module .\\vmware",
+            "10 Docs": "import-module .\\vmware"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the tapjack overlay in the Bluetooth permission request activity",
+        "Answers": {
+            "1 Docs": "of-bounds write due to an incorrect bounds check. This could lead",
+            "3 Docs": "of-bounds write due to an incorrect bounds check. This could lead",
+            "5 Docs": "of-bounds write due to an incorrect bounds check. This could lead",
+            "10 Docs": "of-bounds write due to an incorrect bounds check. This could lead"
+        }
+    },
+    {
+        "Filename": "aa21-209a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of disabling Equation editor in Confluence Data center",
+        "Answers": {
+            "1 Docs": "2017-",
+            "3 Docs": "2017-",
+            "5 Docs": "2017-",
+            "10 Docs": "2017-"
+        }
+    },
+    {
+        "Filename": "ar23-243a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the `pty` variable in the provided passage",
+        "Answers": {
+            "1 Docs": "listenport",
+            "3 Docs": "listenport",
+            "5 Docs": "listenport",
+            "10 Docs": "listenport"
+        }
+    },
+    {
+        "Filename": "aa23-325a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of checking the value of `filesize` variable in the given passage",
+        "Answers": {
+            "1 Docs": "\u2019s Secure by",
+            "3 Docs": "7.8 has been assigned",
+            "5 Docs": "7.8 has been assigned",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-158a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is an effective way to prevent CLOP ransomware from accessing sensitive data and systems",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing a secure password management solution   What are the benefits of using a strong password",
+        "Answers": {
+            "1 Docs": "to-date, stable versions of OSs, browsers",
+            "3 Docs": "6, 2021",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_9.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the different ways that attackers can gain access and compromise remote services",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa22-055a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is a potential exploit that could be used against the target system to gain access and execute code",
+        "Answers": {
+            "1 Docs": "MuddyWater has used malware that has the capability",
+            "3 Docs": "MuddyWater has used malware that has the capability",
+            "5 Docs": "MuddyWater has used malware that has the capability",
+            "10 Docs": "MuddyWater has used malware that has the capability"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the key vulnerabilities that could have contributed  to the lack of response to Phase 2 events",
+        "Answers": {
+            "1 Docs": "\u2019s network. The organization failed",
+            "3 Docs": "2022-3545 has been assigned to this vulnerability",
+            "5 Docs": "2022-3545 has been assigned to this vulnerability",
+            "10 Docs": "54.217[.]2 and removed mde.ps"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of capturing and removing sensitive logs from a compromise",
+        "Answers": {
+            "1 Docs": ".log file contained user activities on a compromised system, showcasing a combination",
+            "3 Docs": ".log file contained user activities on a compromised system, showcasing a combination",
+            "5 Docs": ".log file contained user activities on a compromised system, showcasing a combination",
+            "10 Docs": ".log file contained user activities on a compromised system, showcasing a combination"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_10.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using a CVss base vector with the string ( CVCS:1:AVN:ACL:PRNUI RNS:S) in vulnerability  3 2.",
+        "Answers": {
+            "1 Docs": "2023-27534 has been assigned to this vulnerability",
+            "3 Docs": "2023-27534 has been assigned to this vulnerability",
+            "5 Docs": "2023-27534 has been assigned to this vulnerability",
+            "10 Docs": "2023-27534 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "aa22-277a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of disabling cleartext administration and disabling all other remote administration tools",
+        "Answers": {
+            "1 Docs": "unable to determine what this process was as the process identifier (PID",
+            "3 Docs": "unable to determine what this process was as the process identifier (PID",
+            "5 Docs": "unable to determine what this process was as the process identifier (PID",
+            "10 Docs": "unable to determine what this process was as the process identifier (PID"
+        }
+    },
+    {
+        "Filename": "aa23-136a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of disabling the AMI (Anti-Malware Interface) on windows   How does this affect the security of a system",
+        "Answers": {
+            "1 Docs": ".dll is a malware file and not associated",
+            "3 Docs": ".dll is a malware file and not associated",
+            "5 Docs": ".dll is a malware file and not associated",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "aa23-165a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the \"Web Protocols\" application layer protocol in file transfers",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": "&CK Techniques",
+            "10 Docs": "&CK Techniques"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the CVss v 2 base scores in this context",
+        "Answers": {
+            "1 Docs": "https://github.com/torvalds",
+            "3 Docs": "https://github.com/torvalds",
+            "5 Docs": "https://github.com/torvalds",
+            "10 Docs": "https://github.com/torvalds"
+        }
+    },
+    {
+        "Filename": "icsa-24-102-08_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of reporting vulnerabilities to the Cisa",
+        "Answers": {
+            "1 Docs": "April 11",
+            "3 Docs": "April 11",
+            "5 Docs": "April 11",
+            "10 Docs": "April 11"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the ten most commonly reported network configuration misconfiguration vulnerabilities",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "aa23-263a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of installing antivirus on hosts  How can antivirus be used to detect and prevent ransomware attacks",
+        "Answers": {
+            "1 Docs": "/or fund illicit activities. Regardless",
+            "3 Docs": "/or fund illicit activities. Regardless",
+            "5 Docs": "/or fund illicit activities. Regardless",
+            "10 Docs": "/or fund illicit activities. Regardless"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using OpenSSL s re-hash functionality",
+        "Answers": {
+            "1 Docs": "2022-2078 has been assigned to this vulnerability",
+            "3 Docs": "2022-2078 has been assigned to this vulnerability",
+            "5 Docs": "2022-2078 has been assigned to this vulnerability",
+            "10 Docs": "2022-2078 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "aa23-165a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the best way to implement leastprivilege access control in the context of ransomware attacks",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa21-008a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is an effective way to monitor the telemetry data in Azure for suspicious activity",
+        "Answers": {
+            "1 Docs": "part of its investigation, Sparrow homes in",
+            "3 Docs": "part of its investigation, Sparrow homes in",
+            "5 Docs": "part of its investigation, Sparrow homes in",
+            "10 Docs": "part of its investigation, Sparrow homes in"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_8.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of enabling certificate validation in OpenVPN",
+        "Answers": {
+            "1 Docs": "cisa.gov",
+            "3 Docs": "cisa.gov",
+            "5 Docs": "cisa.gov",
+            "10 Docs": "cisa.gov"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_7.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of storing SSH password information in the bash historical file",
+        "Answers": {
+            "1 Docs": "\u2019s C2 servers. Proxy: Domain Fronting T1090",
+            "3 Docs": "\u2019s C2 servers. Proxy: Domain Fronting T1090",
+            "5 Docs": "\u2019s C2 servers. Proxy: Domain Fronting T1090",
+            "10 Docs": "\u2019s C2 servers. Proxy: Domain Fronting T1090"
+        }
+    },
+    {
+        "Filename": "icsa-24-102-08_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of adding a `BIO_filter BIO` to front the ` BIO ` chain in `B62_Write_ ASN 2` function",
+        "Answers": {
+            "1 Docs": "untrusted source could be vulernable to a denial",
+            "3 Docs": "untrusted source could be vulernable to a denial",
+            "5 Docs": "untrusted source could be vulernable to a denial",
+            "10 Docs": "untrusted source could be vulernable to a denial"
+        }
+    },
+    {
+        "Filename": "aa23-347a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of exploiting this vulnerability on software engineers and their source codes",
+        "Answers": {
+            "1 Docs": "23-347A STIX XML (XML, 76.99 KB",
+            "3 Docs": "23-347A STIX XML (XML, 76.99 KB",
+            "5 Docs": "23-347A STIX XML (XML, 76.99 KB",
+            "10 Docs": "23-347A STIX XML (XML, 76.99 KB"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the CVss vector in this code",
+        "Answers": {
+            "1 Docs": "score of 7.5 has been assigned",
+            "3 Docs": "score of 7.5 has been assigned",
+            "5 Docs": "score of 7.5 has been assigned",
+            "10 Docs": "score of 7.5 has been assigned"
+        }
+    },
+    {
+        "Filename": "aa23-201a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the passage",
+        "Answers": {
+            "1 Docs": "6, 2023",
+            "3 Docs": "6, 2023",
+            "5 Docs": "6, 2023",
+            "10 Docs": "6, 2023"
+        }
+    },
+    {
+        "Filename": "aa23-061a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the percentage or percentage range of files that are encrypted by the Royal ransomware",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "aa23-319a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of this passage",
+        "Answers": {
+            "1 Docs": "November 15",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "icsa-23-222-09_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the attack complexitiy of the vulnerability",
+        "Answers": {
+            "1 Docs": "CISA at this",
+            "3 Docs": "CISA at this",
+            "5 Docs": "CISA at this",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "aa23-158a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of downloading and running the FLAWEDGRACE or COBAL STK beacons",
+        "Answers": {
+            "1 Docs": "2 =",
+            "3 Docs": "2 =",
+            "5 Docs": "2 =",
+            "10 Docs": "2 ="
+        }
+    },
+    {
+        "Filename": "aa23-250a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the .txt files downloaded from C#",
+        "Answers": {
+            "1 Docs": "Mimikatz than listed above. 2023-01",
+            "3 Docs": "Mimikatz than listed above. 2023-01",
+            "5 Docs": "Mimikatz than listed above. 2023-01",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-201a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the file named *logintm*.php",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": "&CK Techniques",
+            "10 Docs": "&CK Techniques"
+        }
+    },
+    {
+        "Filename": "aa22-117a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the Remote PowerShell feature in Exchange server",
+        "Answers": {
+            "1 Docs": "advisories. Canadian organizations",
+            "3 Docs": "advisories. Canadian organizations",
+            "5 Docs": "advisories. Canadian organizations",
+            "10 Docs": "advisories. Canadian organizations"
+        }
+    },
+    {
+        "Filename": "aa23-347a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of modifying the `internal properties` file",
+        "Answers": {
+            "1 Docs": "21.51[.]58 Exploitation Server 103.76.128",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_9.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of testing security control inventory against ATT & CK techniques",
+        "Answers": {
+            "1 Docs": "slogonevents",
+            "3 Docs": "slogonevents",
+            "5 Docs": "slogonevents",
+            "10 Docs": "slogonevents"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using legitimate, outdated network tools for credential access and discovery",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-144a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the \"Aes.Encrypt\" method in ShellJS",
+        "Answers": {
+            "1 Docs": "Scripting Interpreter",
+            "3 Docs": "Scripting Interpreter",
+            "5 Docs": "Scripting Interpreter",
+            "10 Docs": "Scripting Interpreter"
+        }
+    },
+    {
+        "Filename": "aa20-275a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some ways to effectively detect the PREATT & CK techniques used against an enterprise network",
+        "Answers": {
+            "1 Docs": "number of failed login attempts. Network Service Scanning [T1046",
+            "3 Docs": "number of failed login attempts. Network Service Scanning [T1046",
+            "5 Docs": "number of failed login attempts. Network Service Scanning [T1046",
+            "10 Docs": "number of failed login attempts. Network Service Scanning [T1046"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_8.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of reporting suspected suspicious activity to the CISC",
+        "Answers": {
+            "1 Docs": "CISA at this time. 5. UPDATE HISTORY February 15",
+            "3 Docs": "CISA at this time. 5. UPDATE HISTORY February 15",
+            "5 Docs": "CISA at this time. 5. UPDATE HISTORY February 15",
+            "10 Docs": "CISA at this time. 5. UPDATE HISTORY February 15"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using SSH session files to access hosts  How does this technique contribute to gaining root privileges on SBS",
+        "Answers": {
+            "1 Docs": "MDM vendor but were unable",
+            "3 Docs": "MDM vendor but were unable",
+            "5 Docs": "MDM vendor but were unable",
+            "10 Docs": "MDM vendor but were unable"
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the best way to protect your wireless router from a potential attack",
+        "Answers": {
+            "1 Docs": "number of trial software and applications\u2014referred",
+            "3 Docs": "number of trial software and applications\u2014referred",
+            "5 Docs": "number of trial software and applications\u2014referred",
+            "10 Docs": "addition to a network firewall, consider installing a firewall on all computers connected"
+        }
+    },
+    {
+        "Filename": "aa22-320a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implanting NGROK reverse Proxy on hosts",
+        "Answers": {
+            "1 Docs": "Ngrok is known",
+            "3 Docs": "Ngrok is known",
+            "5 Docs": "Ngrok is known",
+            "10 Docs": "54.217[.]2 and removed mde.ps"
+        }
+    },
+    {
+        "Filename": "aa23-075a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing a monitoring and reporting tool for network activity",
+        "Answers": {
+            "1 Docs": "CISA",
+            "3 Docs": "CISA",
+            "5 Docs": "CISA",
+            "10 Docs": "CISA"
+        }
+    },
+    {
+        "Filename": "aa21-008a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of searching the \"Configuration:Type:Issuance Authority\" property in AD FS",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa23-347a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of testing security control inventory against ATT & CK techniques",
+        "Answers": {
+            "1 Docs": "SKW",
+            "3 Docs": "SKW",
+            "5 Docs": ".g",
+            "10 Docs": "CK techniques identified in this advisory"
+        }
+    },
+    {
+        "Filename": "aa23-075a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of creating the Mutex",
+        "Answers": {
+            "1 Docs": ".0 Ransom Note ~~~ LockBit 3",
+            "3 Docs": ".0 Ransom Note ~~~ LockBit 3",
+            "5 Docs": ".0 Ransom Note ~~~ LockBit 3",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-347a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of generating a directory with a specific name and storing infection specific BMP file there",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": "&CK Techniques",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-263a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some ways to mitigate the risk associated with using Remote desktop protocols (RDP)",
+        "Answers": {
+            "1 Docs": "2.F]. Identify, detect",
+            "3 Docs": "2.F]. Identify, detect",
+            "5 Docs": "2.F]. Identify, detect",
+            "10 Docs": "2.F]. Identify, detect"
+        }
+    },
+    {
+        "Filename": "ar23-209a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is purpose of using a Base  6 encoded shell string in a malware script",
+        "Answers": {
+            "1 Docs": "Pane 1, shows the malware, in conjunction",
+            "3 Docs": "Pane 1, shows the malware, in conjunction",
+            "5 Docs": "Pane 1, shows the malware, in conjunction",
+            "10 Docs": "Pane 1, shows the malware, in conjunction"
+        }
+    },
+    {
+        "Filename": "aa20-275a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the main topic of the passage",
+        "Answers": {
+            "1 Docs": "20-020A",
+            "3 Docs": "7.8 has been assigned",
+            "5 Docs": "7.8 has been assigned",
+            "10 Docs": "7.8 has been assigned"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_8.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the shared resource with improper synchronization in this exploit",
+        "Answers": {
+            "1 Docs": "2.37",
+            "3 Docs": "2.37",
+            "5 Docs": "2.37",
+            "10 Docs": "2.37"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of gathering information about employee network information, network security appliances, MDM vendors, physical location of maintenance staff, database credentials, API credentials and bash script credentials",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "icsa-24-102-08_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of disabling the support for AVY531 in the OPEN SSL library",
+        "Answers": {
+            "1 Docs": "1305 MAC (message authentication code",
+            "3 Docs": "1305 MAC (message authentication code",
+            "5 Docs": "1305 MAC (message authentication code",
+            "10 Docs": "1305 MAC (message authentication code"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-10_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of updating the ICS advisory for these Siemens products",
+        "Answers": {
+            "1 Docs": "3.",
+            "3 Docs": "3.",
+            "5 Docs": "3.",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using a WEEP, CMP, and GMP encryption keys for fragmented frame encryption",
+        "Answers": {
+            "1 Docs": "due to improper locking. This could lead",
+            "3 Docs": "due to improper locking. This could lead",
+            "5 Docs": "due to improper locking. This could lead",
+            "10 Docs": "due to improper locking. This could lead"
+        }
+    },
+    {
+        "Filename": "ar22-277a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the differences between an MIFR and an MAR, how can they be requested, what is the purpose of submitting malware samples to each of these reports,  and what are some common suspicious activities that could trigger reporting",
+        "Answers": {
+            "1 Docs": "level of desired analysis",
+            "3 Docs": "level of desired analysis",
+            "5 Docs": "level of desired analysis",
+            "10 Docs": "level of desired analysis"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-10_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the `free_ pipe_ info()` function in this code",
+        "Answers": {
+            "1 Docs": "2022-3435 has been assigned to this vulnerability",
+            "3 Docs": "2022-3435 has been assigned to this vulnerability",
+            "5 Docs": "2022-3435 has been assigned to this vulnerability",
+            "10 Docs": "2022-3435 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_11.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of the vulnerability if it is exploited",
+        "Answers": {
+            "1 Docs": "of-bounds reads due to integer overflows. This could lead",
+            "3 Docs": "7.8 has been assigned",
+            "5 Docs": "7.8 has been assigned",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "aa23-250a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of removing unnecessary accounts from an enterprise",
+        "Answers": {
+            "1 Docs": "23-250A STIX XML (XML, 69.24 KB",
+            "3 Docs": "6, 2021",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa21-356a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What type(s) of OT devices are most susceptible",
+        "Answers": {
+            "1 Docs": "CCCS, CERT NZ, NZ NCSC",
+            "3 Docs": "CCCS, CERT NZ, NZ NCSC",
+            "5 Docs": "CCCS, CERT NZ, NZ NCSC",
+            "10 Docs": "CCCS, CERT NZ, NZ NCSC"
+        }
+    },
+    {
+        "Filename": "icsa-24-102-08_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the PATH Traversal vulnerability  How can it be used to exploit the vulnerability and achieve remote execution",
+        "Answers": {
+            "1 Docs": "3.2 Vulnerability Overview 3.",
+            "3 Docs": "2022-3545 has been assigned to this vulnerability",
+            "5 Docs": "2022-3545 has been assigned to this vulnerability",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-187a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the best way to protect sensitive data in an environment that is segmented and has multiple layers of security",
+        "Answers": {
+            "1 Docs": "does not constitute or imply endorsement, recommendation",
+            "3 Docs": "does not constitute or imply endorsement, recommendation",
+            "5 Docs": "does not constitute or imply endorsement, recommendation",
+            "10 Docs": "does not constitute or imply endorsement, recommendation"
+        }
+    },
+    {
+        "Filename": "aa22-320a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of creating non -privileged account for users",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa23-319a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some mitigative measures that network administrators can implement to protect their systems and networks from ransomware attacks",
+        "Answers": {
+            "1 Docs": "2.A, 2.E]. For example",
+            "3 Docs": "2.A, 2.E]. For example",
+            "5 Docs": "2.A, 2.E]. For example",
+            "10 Docs": "2.A, 2.E]. For example"
+        }
+    },
+    {
+        "Filename": "ar23-074a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the different types of malware reports that Cisa offers",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": "6, 2021",
+            "5 Docs": "235-8832) Central@cisa",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_7.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the `bts dio` function in `drivers/btdio/bts Dio.h`",
+        "Answers": {
+            "1 Docs": "OF-BOUNDS READ CWE-125 An out",
+            "3 Docs": "OF-BOUNDS READ CWE-125 An out",
+            "5 Docs": "OF-BOUNDS READ CWE-125 An out",
+            "10 Docs": "OF-BOUNDS READ CWE-125 An out"
+        }
+    },
+    {
+        "Filename": "aa23-165a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of this cybersecurity advisory   What are the key takeaways from the passage",
+        "Answers": {
+            "1 Docs": "LockBit 3",
+            "3 Docs": "LockBit 3",
+            "5 Docs": "LockBit 3",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_8.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of CWE vulnerabilities in the context of Android operating system",
+        "Answers": {
+            "1 Docs": "calculated; the CVSS vector string is",
+            "3 Docs": "calculated; the CVSS vector string is",
+            "5 Docs": "calculated; the CVSS vector string is",
+            "10 Docs": "calculated; the CVSS vector string is"
+        }
+    },
+    {
+        "Filename": "aa23-075a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the TIDs of Lock Bit  4 ransomware",
+        "Answers": {
+            "1 Docs": ".0 attempts",
+            "3 Docs": ".0 attempts",
+            "5 Docs": ".0 attempts",
+            "10 Docs": ".0 attempts"
+        }
+    },
+    {
+        "Filename": "aa23-144a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of enabling the \"Include Command Line in Process Creation Events\" option in Windows event logs",
+        "Answers": {
+            "1 Docs": "\u201d tools, such",
+            "3 Docs": "\u201d tools, such",
+            "5 Docs": "\u201d tools, such",
+            "10 Docs": "\u201d tools, such"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the best way to mitigate the attack vector of unauthorized access attempts through the implementation of a principle- of-least-privilege approach",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "aa23-187a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using TrueBot malware to steal sensitive information",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of the vulnerability if user interactions are not required for the exploit",
+        "Answers": {
+            "1 Docs": "Android-10, Android-11, Android-8",
+            "3 Docs": "Android-10, Android-11, Android-8",
+            "5 Docs": "Android-10, Android-11, Android-8",
+            "10 Docs": "Android-10, Android-11, Android-8"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_8.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of providing the information requested in an incident report",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": "&CK Techniques",
+            "10 Docs": "&CK Techniques"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of these vulnerabilities if they are exploited",
+        "Answers": {
+            "1 Docs": "calculated; the CVSS vector string is",
+            "3 Docs": "7.8 has been assigned",
+            "5 Docs": "7.8 has been assigned",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "aa23-250a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the minimum password length requirement for user passwords",
+        "Answers": {
+            "1 Docs": "escalations and role changes, as well",
+            "3 Docs": "escalations and role changes, as well",
+            "5 Docs": "escalations and role changes, as well",
+            "10 Docs": "escalations and role changes, as well"
+        }
+    },
+    {
+        "Filename": "aa22-117a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the Top Five most frequently reported vulnerabilities exploited against Microsoft products in that year",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "aa23-074a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of dropping the malicious payload in C:\\\\Windows\\\\Temp\\\\ directory",
+        "Answers": {
+            "1 Docs": "xesmartshell.tmp and SortVistaCompat have the capability",
+            "3 Docs": "xesmartshell.tmp and SortVistaCompat have the capability",
+            "5 Docs": "xesmartshell.tmp and SortVistaCompat have the capability",
+            "10 Docs": "xesmartshell.tmp and SortVistaCompat have the capability"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_9.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of upgrading to version v14 or  v 7 5",
+        "Answers": {
+            "1 Docs": "1.5",
+            "3 Docs": "1.5",
+            "5 Docs": "dhs.gov (UNCLASS) CISA encourages you",
+            "10 Docs": "dhs.gov (UNCLASS) CISA encourages you"
+        }
+    },
+    {
+        "Filename": "aa22-320a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the potential risks associated if credentials are stored in the password store or browser",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "aa20-245a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some best practices to implement to mitigate the risk of remote access vulnerabilities",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_7.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best security practices for managing privileged service credentials in a hybrid cloud and local environment",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is an example of a malicious file or payload that could exploit the CWE vulnerabilities mentioned in this passage",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa20-301a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using spear phishing to initially gain access to victims networks",
+        "Answers": {
+            "1 Docs": "in-the-Browser [T1185",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What was the purpose of conducting the Cisa red-team assessment   What were the tactics used by the Red team",
+        "Answers": {
+            "1 Docs": "\u2019s tactics, techniques",
+            "3 Docs": "\u2019s tactics, techniques",
+            "5 Docs": "\u2019s tactics, techniques",
+            "10 Docs": "\u2019s tactics, techniques"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_8.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best practices for collecting and storing logs related  to OT activities",
+        "Answers": {
+            "1 Docs": "e.g",
+            "3 Docs": "e.g",
+            "5 Docs": "e.g",
+            "10 Docs": "e.g"
+        }
+    },
+    {
+        "Filename": "aa22-055a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of this persistence file",
+        "Answers": {
+            "1 Docs": "related to these threats, contact CISA at Central@cisa",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa20-352a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using obfuscated files or information for C&C communication",
+        "Answers": {
+            "1 Docs": "6, 2021",
+            "3 Docs": "6, 2021",
+            "5 Docs": "dhs.gov (UNCLASS) CISA encourages you",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa24-109a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the \"net group\" command in the context of acquiring detailed information about domain groups",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": ".e",
+            "5 Docs": ".e",
+            "10 Docs": ".e"
+        }
+    },
+    {
+        "Filename": "aa23-158a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What information can the authorities request from the public in order to investigate the MOVEi Transfer vulnerability",
+        "Answers": {
+            "1 Docs": "/or fund illicit activities. Regardless",
+            "3 Docs": "/or fund illicit activities. Regardless",
+            "5 Docs": "/or fund illicit activities. Regardless",
+            "10 Docs": "/or fund illicit activities. Regardless"
+        }
+    },
+    {
+        "Filename": "aa20-245a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the potential impact of not collecting log and event data",
+        "Answers": {
+            "1 Docs": "outbound network traffic as well",
+            "3 Docs": "outbound network traffic as well",
+            "5 Docs": "outbound network traffic as well",
+            "10 Docs": "outbound network traffic as well"
+        }
+    },
+    {
+        "Filename": "aa23-136a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of retrieving a detailed list  of domain trusts",
+        "Answers": {
+            "1 Docs": "workstations",
+            "3 Docs": "workstations",
+            "5 Docs": "workstations",
+            "10 Docs": "workstations"
+        }
+    },
+    {
+        "Filename": "aa23-339a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using RC exe and fsc. exe to scan a subnet",
+        "Answers": {
+            "1 Docs": "1140 Threat",
+            "3 Docs": "1140 Threat",
+            "5 Docs": "1140 Threat",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of setting a specific size for `$state_file` in `logrotate`",
+        "Answers": {
+            "1 Docs": "2022-4904 has been assigned to this vulnerability",
+            "3 Docs": "2022-4904 has been assigned to this vulnerability",
+            "5 Docs": "2022-4904 has been assigned to this vulnerability",
+            "10 Docs": "2022-4904 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using mod proxy with the Apache web server",
+        "Answers": {
+            "1 Docs": "2023-28320 has been assigned to this vulnerability",
+            "3 Docs": "2023-28320 has been assigned to this vulnerability",
+            "5 Docs": "2023-28320 has been assigned to this vulnerability",
+            "10 Docs": "2023-28320 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of enabling web enrollment for an Active directory certificate authority (CA)",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa21-356a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the recommended mitigatory actions for organizations and vendors to address the vulnerability posed  by Apaches  Log  4 j library",
+        "Answers": {
+            "1 Docs": "According to public reporting, CVE-2021",
+            "3 Docs": "According to public reporting, CVE-2021",
+            "5 Docs": "According to public reporting, CVE-2021",
+            "10 Docs": "According to public reporting, CVE-2021"
+        }
+    },
+    {
+        "Filename": "aa21-356a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the steps that should be taken to mitigate this Log  4 vulnerability",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "aa23-165a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the key mitigatory controls mentioned in Figure three that help prevent lateral movements of malware",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa22-277a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using a strong 51-byte AES encryption key in this scenario",
+        "Answers": {
+            "1 Docs": "exfiltrate the files. Proxy T1090 Actors are known",
+            "3 Docs": "exfiltrate the files. Proxy T1090 Actors are known",
+            "5 Docs": "exfiltrate the files. Proxy T1090 Actors are known",
+            "10 Docs": "exfiltrate the files. Proxy T1090 Actors are known"
+        }
+    },
+    {
+        "Filename": "aa23-320a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the tactics that Scatter Spider uses to gain initial and lateral access into a network",
+        "Answers": {
+            "1 Docs": "\u2019s Decider Tool. Overview Scattered Spider (also known",
+            "3 Docs": "\u2019s Decider Tool. Overview Scattered Spider (also known",
+            "5 Docs": "\u2019s Decider Tool. Overview Scattered Spider (also known",
+            "10 Docs": "\u2019s Decider Tool. Overview Scattered Spider (also known"
+        }
+    },
+    {
+        "Filename": "aa22-055a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is an effective way to mitigate the risk of malicious activities using open-source tools",
+        "Answers": {
+            "1 Docs": "32.18 Traffic obfuscation",
+            "3 Docs": "32.18 Traffic obfuscation",
+            "5 Docs": "32.18 Traffic obfuscation",
+            "10 Docs": "32.18 Traffic obfuscation"
+        }
+    },
+    {
+        "Filename": "aa23-165a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of clearing Windows event logs   What are the indicators that are removed by clearing event log",
+        "Answers": {
+            "1 Docs": "&CK Techniques",
+            "3 Docs": "&CK Techniques",
+            "5 Docs": "&CK Techniques",
+            "10 Docs": "&CK Techniques"
+        }
+    },
+    {
+        "Filename": "aa23-325a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of saving the registry keys to files",
+        "Answers": {
+            "1 Docs": "a.bat specifies that the file a",
+            "3 Docs": "a.bat specifies that the file a",
+            "5 Docs": "a.bat specifies that the file a",
+            "10 Docs": "a.bat specifies that the file a"
+        }
+    },
+    {
+        "Filename": "icsa-23-222-07_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the recommended method for protecting the control network from unauthorized access",
+        "Answers": {
+            "1 Docs": "cisa.gov",
+            "3 Docs": "6, 2021",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa22-055a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the indicators that suggest that a system may be compromised by Muddywater",
+        "Answers": {
+            "1 Docs": "10369127-1",
+            "3 Docs": "10369127-1",
+            "5 Docs": "10369127-1",
+            "10 Docs": "10369127-1"
+        }
+    },
+    {
+        "Filename": "aa20-275a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the vulnerabilities that Chinese State-Sponsored Cyber Actors have exploited in healthcare and financial sectors",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of sending specially constructed messages and how can this be used to exploit the vulnerability",
+        "Answers": {
+            "1 Docs": "2023-1380 has been assigned to this vulnerability",
+            "3 Docs": "2023-1380 has been assigned to this vulnerability",
+            "5 Docs": "2023-1380 has been assigned to this vulnerability",
+            "10 Docs": "2023-1380 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is an example of a race conditions vulnerability that could be exploited by a malicious actor using the vulnerability assigned in CVES 2, 14, and 6",
+        "Answers": {
+            "1 Docs": "2022-3104 has been assigned to this vulnerability",
+            "3 Docs": "2022-3545 has been assigned to this vulnerability",
+            "5 Docs": "2022-3545 has been assigned to this vulnerability",
+            "10 Docs": "2022-3545 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_11.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of extracting and storing the NTdsdit file on local storage",
+        "Answers": {
+            "1 Docs": ".log file contained user activities on a compromised system, showcasing a combination",
+            "3 Docs": ".log file contained user activities on a compromised system, showcasing a combination",
+            "5 Docs": ".log file contained user activities on a compromised system, showcasing a combination",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "ar23-243a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is purpose and functionality  of the nedt component in Infamy Chiel malware",
+        "Answers": {
+            "1 Docs": "emulated/1/Android",
+            "3 Docs": "emulated/1/Android",
+            "5 Docs": "emulated/1/Android",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "ar23-243a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of checking the value of `$` in `condition: int3\uff12(uint3) = \uff10x\uff14\uff16\uff14C\uff14\uff157f and (any of these)` in rule `net_createdFiles`",
+        "Answers": {
+            "1 Docs": "TRACE",
+            "3 Docs": "TRACE",
+            "5 Docs": "TRACE",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-320a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of ScatterED SPIDER threatactors searching the Slack and Teams online platforms for email conversations and conversations about the intrusion",
+        "Answers": {
+            "1 Docs": "\u2019s network. Table 5",
+            "3 Docs": "\u2019s network. Table 5",
+            "5 Docs": "\u2019s network. Table 5",
+            "10 Docs": "\u2019s network. Table 5"
+        }
+    },
+    {
+        "Filename": "aa23-187a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of collecting and reviewing artifacts like running programs/ services, authenticfications, network connection details, etc.",
+        "Answers": {
+            "1 Docs": "2.E]. For example",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of obtaining the cache credentials from lsas. exe",
+        "Answers": {
+            "1 Docs": "1557.001",
+            "3 Docs": "1557.001",
+            "5 Docs": "1557.001",
+            "10 Docs": "1557.001"
+        }
+    },
+    {
+        "Filename": "aa23-136a_chunk_5.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of this notification and privacy policy",
+        "Answers": {
+            "1 Docs": ". This product is provided subject to this Notification and this Privacy",
+            "3 Docs": ". This product is provided subject to this Notification and this Privacy",
+            "5 Docs": ". This product is provided subject to this Notification and this Privacy",
+            "10 Docs": ". This product is provided subject to this Notification and this Privacy"
+        }
+    },
+    {
+        "Filename": "aa24-038a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of collecting sensitive data from the file system, such [ TA0208 ] and [ T1450 ]",
+        "Answers": {
+            "1 Docs": "PRTG server [T1090",
+            "3 Docs": "PRTG server [T1090",
+            "5 Docs": "PRTG server [T1090",
+            "10 Docs": "PRTG server [T1090"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the highest CVss score that could be achieved for this security advisory",
+        "Answers": {
+            "1 Docs": "SCALANCE XCM328 (6GK5328",
+            "3 Docs": "SCALANCE XCM328 (6GK5328",
+            "5 Docs": "SCALANCE XCM328 (6GK5328",
+            "10 Docs": "SCALANCE XCM328 (6GK5328"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_10.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the `qr tr_sendmsg` function in `net/qtrtr`",
+        "Answers": {
+            "1 Docs": "5.13",
+            "3 Docs": "5.13",
+            "5 Docs": "5.13",
+            "10 Docs": "5.13"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the simplest workaround to prevent the vulnerability described",
+        "Answers": {
+            "1 Docs": "/C:N/I:N",
+            "3 Docs": "/C:N/I:N",
+            "5 Docs": "/C:N/I:N",
+            "10 Docs": "/C:N/I:N"
+        }
+    },
+    {
+        "Filename": "aa20-352a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the recommended mitigatory actions for Category3 networks according to Cisa",
+        "Answers": {
+            "1 Docs": "Remediating Malicious Activity for more information on incident investigation and mitigation steps based",
+            "3 Docs": "Remediating Malicious Activity for more information on incident investigation and mitigation steps based",
+            "5 Docs": "Remediating Malicious Activity for more information on incident investigation and mitigation steps based",
+            "10 Docs": "Remediating Malicious Activity for more information on incident investigation and mitigation steps based"
+        }
+    },
+    {
+        "Filename": "icsa-24-102-08_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the `xmlDictCalculateFastkey` function in `dict.C`",
+        "Answers": {
+            "1 Docs": "cisa.gov in the technical information paper, ICS",
+            "3 Docs": "cisa.gov in the technical information paper, ICS",
+            "5 Docs": "cisa.gov in the technical information paper, ICS",
+            "10 Docs": "cisa.gov in the technical information paper, ICS"
+        }
+    },
+    {
+        "Filename": "aa23-213a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the passage",
+        "Answers": {
+            "1 Docs": "EPMM devices to other internal servers, as well",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    },
+    {
+        "Filename": "aa23-250a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of monitoring API call activity for suspicious activities",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa22-158a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of disabling remote management on a DLINK router",
+        "Answers": {
+            "1 Docs": "9.0R3.3 8",
+            "3 Docs": "9.0R3.3 8",
+            "5 Docs": ".g",
+            "10 Docs": "addition to a network firewall, consider installing a firewall on all computers connected"
+        }
+    },
+    {
+        "Filename": "aa21-008a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the open source tool Sparrow for network defender to identify compromised users and or applications",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-075a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of deleting itself and what is its potential impact on LockBIT   3",
+        "Answers": {
+            "1 Docs": "host_lang\":\"X",
+            "3 Docs": "host_lang\":\"X",
+            "5 Docs": "host_lang\":\"X",
+            "10 Docs": "host_lang\":\"X"
+        }
+    },
+    {
+        "Filename": "aa23-339a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the passage   What information is provided about threat detection, prevention, mitigation, vulnerability management, configuration upgrade, network security, software discovery, account discovery and domain trust discovery",
+        "Answers": {
+            "1 Docs": "2.E]. Proper network segmentation significantly reduces the ability",
+            "3 Docs": "6, 2021",
+            "5 Docs": "2.E]. Proper network segmentation significantly reduces the ability",
+            "10 Docs": "CISA at this"
+        }
+    },
+    {
+        "Filename": "aa22-158a_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the critical vulnerability that affects PhotoStation versions from  8.5 to 0",
+        "Answers": {
+            "1 Docs": "https://www.zyxel.com",
+            "3 Docs": "https://www.zyxel.com",
+            "5 Docs": "https://www.zyxel.com",
+            "10 Docs": "https://www.zyxel.com"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is a potential exploit for the vulnerability described in this passage",
+        "Answers": {
+            "1 Docs": "5.3 has been assigned",
+            "3 Docs": "7.8 has been assigned",
+            "5 Docs": "7.8 has been assigned",
+            "10 Docs": "7.8 has been assigned"
+        }
+    },
+    {
+        "Filename": "ar23-209a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is suspicious about the configuration file \"config_TR.g\"  What does it contain that could potentially be used to exploit the vulnerability",
+        "Answers": {
+            "1 Docs": "3.",
+            "3 Docs": "2022-3545 has been assigned to this vulnerability",
+            "5 Docs": "2022-3545 has been assigned to this vulnerability",
+            "10 Docs": "2022-3545 has been assigned to this vulnerability"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using `process.bind()` in node.JS",
+        "Answers": {
+            "1 Docs": "SOCKS5 proxy to allow that to resolve the address instead",
+            "3 Docs": "SOCKS5 proxy to allow that to resolve the address instead",
+            "5 Docs": "SOCKS5 proxy to allow that to resolve the address instead",
+            "10 Docs": "SOCKS5 proxy to allow that to resolve the address instead"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are some ways that attackers can exploit vulnerabilities in network share and service data",
+        "Answers": {
+            "1 Docs": "enumerate accessible network shares in a domain.[21],[22",
+            "3 Docs": "enumerate accessible network shares in a domain.[21],[22",
+            "5 Docs": "enumerate accessible network shares in a domain.[21],[22",
+            "10 Docs": "enumerate accessible network shares in a domain.[21],[22"
+        }
+    },
+    {
+        "Filename": "aa23-074a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the .net deserialzation vulnerability and how did it allow the attackers to execute code",
+        "Answers": {
+            "1 Docs": "Bureau of Investigation (FBI",
+            "3 Docs": "Bureau of Investigation (FBI",
+            "5 Docs": "Bureau of Investigation (FBI",
+            "10 Docs": "Bureau of Investigation (FBI"
+        }
+    },
+    {
+        "Filename": "aa20-245a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is an effective way to secure a Windows server running on an older version of Windows",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa23-320a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of collecting data about different attack vectors and techniques used in ransomware attacks",
+        "Answers": {
+            "1 Docs": "2.G]. Disable password \u201chints.\u201d Refrain",
+            "3 Docs": "2.G]. Disable password \u201chints.\u201d Refrain",
+            "5 Docs": "2.G]. Disable password \u201chints.\u201d Refrain",
+            "10 Docs": "CK techniques identified in this advisory"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-10_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the `strtoup` function instead of `atoi` when parsing a string into an integer",
+        "Answers": {
+            "1 Docs": "score of 9.8 has been calculated",
+            "3 Docs": "score of 9.8 has been calculated",
+            "5 Docs": "score of 9.8 has been calculated",
+            "10 Docs": "score of 9.8 has been calculated"
+        }
+    },
+    {
+        "Filename": "aa23-165a_chunk_6.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the best practices for developing and implementing an IT Security Awareness Program",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": "CK techniques identified in this advisory"
+        }
+    },
+    {
+        "Filename": "aa21-062a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of capturing memory from an operating system",
+        "Answers": {
+            "1 Docs": "soon as possible. (Updated March 4, 2021): CISA is aware",
+            "3 Docs": "soon as possible. (Updated March 4, 2021): CISA is aware",
+            "5 Docs": "soon as possible. (Updated March 4, 2021): CISA is aware",
+            "10 Docs": "soon as possible. (Updated March 4, 2021): CISA is aware"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-10_chunk_4.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of the Privacy and Use Policy",
+        "Answers": {
+            "1 Docs": "Notification and this Privacy &",
+            "3 Docs": "Notification and this Privacy &",
+            "5 Docs": "Notification and this Privacy &",
+            "10 Docs": "Notification and this Privacy &"
+        }
+    },
+    {
+        "Filename": "ar21-134a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the time-bound and time escalated domain privileges that need be established for the purpose of implementing Jea for Domain Controller access",
+        "Answers": {
+            "1 Docs": ".S. government agencies, critical infrastructure entities",
+            "3 Docs": ".S. government agencies, critical infrastructure entities",
+            "5 Docs": ".S. government agencies, critical infrastructure entities",
+            "10 Docs": ".S. government agencies, critical infrastructure entities"
+        }
+    },
+    {
+        "Filename": "aa23-144a_chunk_2.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using the PowerShell command `Get-WmiObject -Class Win31_PerfFormattedEventlogEntry`",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa21-356a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the best way to determine the version and timestamp of a specific asset",
+        "Answers": {
+            "1 Docs": "2.17.0 for Java 8 and 2.12",
+            "3 Docs": "2.17.0 for Java 8 and 2.12",
+            "5 Docs": "2.17.0 for Java 8 and 2.12",
+            "10 Docs": "2.17.0 for Java 8 and 2.12"
+        }
+    },
+    {
+        "Filename": "aa23-347a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of using multiple backends for exfiltration",
+        "Answers": {
+            "1 Docs": ".e",
+            "3 Docs": ".e",
+            "5 Docs": ".e",
+            "10 Docs": ".e"
+        }
+    },
+    {
+        "Filename": "ar21-134a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the steps that should take place to ensure that the internal system can access the Internet during an eviction process",
+        "Answers": {
+            "1 Docs": ".g",
+            "3 Docs": ".g",
+            "5 Docs": ".g",
+            "10 Docs": ".g"
+        }
+    },
+    {
+        "Filename": "aa21-209a_chunk_1.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the most effective way to mitigate the risk of exploiting this CVE",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "ar23-243a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose and functionality of remove-file flag in drop bear",
+        "Answers": {
+            "1 Docs": "passwd file. The actor has replaced this function",
+            "3 Docs": "passwd file. The actor has replaced this function",
+            "5 Docs": "passwd file. The actor has replaced this function",
+            "10 Docs": "passwd file. The actor has replaced this function"
+        }
+    },
+    {
+        "Filename": "aa23-136a_chunk_3.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What is the purpose of implementing credential guard for windows 8 and server 6",
+        "Answers": {
+            "1 Docs": ".S",
+            "3 Docs": ".S",
+            "5 Docs": ".S",
+            "10 Docs": ".S"
+        }
+    },
+    {
+        "Filename": "aa23-263a_chunk_0.txt",
+        "Chunk Size": 1024,
+        "Generated Question": "What are the different ways that Snitch threat actor use to access and establish persistence in a victims network",
+        "Answers": {
+            "1 Docs": "Bureau of Investigation (FBI",
+            "3 Docs": "6, 2021",
+            "5 Docs": "6, 2021",
+            "10 Docs": "6, 2021"
+        }
+    }
+]

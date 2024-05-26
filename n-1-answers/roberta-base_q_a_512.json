@@ -1,0 +1,420 @@
+[
+    {
+        "Filename": "aa23-278a_chunk_6.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What are some ways to mitigate the risk of unauthorized access to sensitive and administrative network data",
+        "Answers": {
+            "1 Docs": "hashes can be used",
+            "3 Docs": "hashes can be used",
+            "5 Docs": "interacting",
+            "10 Docs": "interacting"
+        }
+    },
+    {
+        "Filename": "ar23-209a_chunk_3.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose and functionality of \"run,sh\" file",
+        "Answers": {
+            "1 Docs": "file",
+            "3 Docs": "file",
+            "5 Docs": "file",
+            "10 Docs": "information on network shares [T1039] that"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-11_chunk_1.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of crafting an HTTPGET request with crafted parameters to exploit the vulnerabilities mentioned in this passage",
+        "Answers": {
+            "1 Docs": "requests",
+            "3 Docs": "requests",
+            "5 Docs": "requests",
+            "10 Docs": "requests"
+        }
+    },
+    {
+        "Filename": "aa21-062a_chunk_6.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What are the updated mitigations for Microsoft Office 64",
+        "Answers": {
+            "1 Docs": "Servers",
+            "3 Docs": "Servers",
+            "5 Docs": "Servers",
+            "10 Docs": "Servers"
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_2.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of changing the SSid  How does it help in protecting the home WiFi from attacks",
+        "Answers": {
+            "1 Docs": "for it.Upgrade firmware. Check",
+            "3 Docs": "for it.Upgrade firmware. Check",
+            "5 Docs": "for it.Upgrade firmware. Check",
+            "10 Docs": "for it.Upgrade firmware. Check"
+        }
+    },
+    {
+        "Filename": "aa23-325a_chunk_0.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of isolating the NetScalers ADC, Gateway, appliances",
+        "Answers": {
+            "1 Docs": "software updates",
+            "3 Docs": "resources",
+            "5 Docs": "interacting",
+            "10 Docs": "software-based, these firewalls"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-11_chunk_2.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of the \"PR\" field in this CVss vector",
+        "Answers": {
+            "1 Docs": "requests",
+            "3 Docs": "requests",
+            "5 Docs": "requests",
+            "10 Docs": "requests"
+        }
+    },
+    {
+        "Filename": "aa20-301a_chunk_4.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of disabling the Windows firewall during initial boot",
+        "Answers": {
+            "1 Docs": "methods",
+            "3 Docs": "resources",
+            "5 Docs": "resources",
+            "10 Docs": "software-based, these firewalls"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_19.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the potential impact of the vulnerability if it is exploited",
+        "Answers": {
+            "1 Docs": "occur due to improper",
+            "3 Docs": "The manipulation leads to use",
+            "5 Docs": "The manipulation leads to use",
+            "10 Docs": "vulnerability has been reported to CISA at this time."
+        }
+    },
+    {
+        "Filename": "aa23-215a_chunk_7.txt",
+        "Chunk Size": 512,
+        "Generated Question": "Which version of Atlasian Atlas Server is affected by the CVE",
+        "Answers": {
+            "1 Docs": "Workaround",
+            "3 Docs": "The manipulation leads to use",
+            "5 Docs": "The manipulation leads to use",
+            "10 Docs": "The manipulation leads to use"
+        }
+    },
+    {
+        "Filename": "aa23-278a_chunk_4.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What are the potential consequences of not implementing proper network security practices",
+        "Answers": {
+            "1 Docs": "systems (OSs) and outdated firmware Lack of Regular Patching",
+            "3 Docs": "systems (OSs) and outdated firmware Lack of Regular Patching",
+            "5 Docs": "interacting",
+            "10 Docs": "interacting"
+        }
+    },
+    {
+        "Filename": "ar23-243a_chunk_0.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of Infamous Chiel malware",
+        "Answers": {
+            "1 Docs": "utility \u2013 likely",
+            "3 Docs": "utility \u2013 likely",
+            "5 Docs": "utility \u2013 likely",
+            "10 Docs": "utility \u2013 likely"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-15_chunk_7.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of the match check configuration option in CURLOPT",
+        "Answers": {
+            "1 Docs": "application might therefore crash",
+            "3 Docs": "application might therefore crash",
+            "5 Docs": "application might therefore crash",
+            "10 Docs": "application might therefore crash"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_11.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the potential impact of this CVE on the security of an application that uses OpenSSL",
+        "Answers": {
+            "1 Docs": "handling of",
+            "3 Docs": "handling of",
+            "5 Docs": "handling of",
+            "10 Docs": "handling of"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-11_chunk_15.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of prepending a newly created BIO filter to an existing BIO before returning it",
+        "Answers": {
+            "1 Docs": "resources",
+            "3 Docs": "resources",
+            "5 Docs": "resources",
+            "10 Docs": "resources"
+        }
+    },
+    {
+        "Filename": "aa23-074a_chunk_1.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the version and security patch of Radasyncupload function in TelerikUI for Asp.net Ajax",
+        "Answers": {
+            "1 Docs": "created on IIS server APT actors",
+            "3 Docs": "created on IIS server APT actors",
+            "5 Docs": "created on IIS server APT actors",
+            "10 Docs": "created on IIS server APT actors"
+        }
+    },
+    {
+        "Filename": "icsa-24-046-11_chunk_13.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the potential impact of these vulnerabilities on a server accepting IPv6 connection",
+        "Answers": {
+            "1 Docs": "USE AFTER FREE CWE-416 A use",
+            "3 Docs": "USE AFTER FREE CWE-416 A use",
+            "5 Docs": "USE AFTER FREE CWE-416 A use",
+            "10 Docs": "USE AFTER FREE CWE-416 A use"
+        }
+    },
+    {
+        "Filename": "aa23-250a_chunk_2.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of the .txt files named \"fu u\" and \"jo\"",
+        "Answers": {
+            "1 Docs": "files and did not identify the files",
+            "3 Docs": "files and did not identify the files",
+            "5 Docs": "files and did not identify the files",
+            "10 Docs": "information on network shares"
+        }
+    },
+    {
+        "Filename": "aa22-320a_chunk_4.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What are the common passwords stored in the password store and how can they be detected",
+        "Answers": {
+            "1 Docs": "tools to the",
+            "3 Docs": "tools to the",
+            "5 Docs": "interacting",
+            "10 Docs": "tools to the"
+        }
+    },
+    {
+        "Filename": "aa23-325a_chunk_1.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of sending the crafted request through the HTTP header",
+        "Answers": {
+            "1 Docs": "addresses in this CSA may be associated with legitimate",
+            "3 Docs": "addresses in this CSA may be associated with legitimate",
+            "5 Docs": "addresses in this CSA may be associated with legitimate",
+            "10 Docs": "addresses in this CSA may be associated with legitimate"
+        }
+    },
+    {
+        "Filename": "icsa-23-222-09_chunk_7.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of disabling the Web Server",
+        "Answers": {
+            "1 Docs": "practices",
+            "3 Docs": "resources",
+            "5 Docs": "interacting",
+            "10 Docs": "software-based, these firewalls"
+        }
+    },
+    {
+        "Filename": "aa20-352a_chunk_0.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of providing the list of SolarWind Orion versions in this passage",
+        "Answers": {
+            "1 Docs": "Organizations",
+            "3 Docs": "Organizations",
+            "5 Docs": "Organizations",
+            "10 Docs": "Organizations"
+        }
+    },
+    {
+        "Filename": "aa23-215a_chunk_1.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of sending a malicious webrequest to vulnerable devices",
+        "Answers": {
+            "1 Docs": "vulnerability, which was likely initially exploited as a",
+            "3 Docs": "vulnerability, which was likely initially exploited as a",
+            "5 Docs": "vulnerability, which was likely initially exploited as a",
+            "10 Docs": "vulnerability, which was likely initially exploited as a"
+        }
+    },
+    {
+        "Filename": "aa23-187a_chunk_6.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of the passage",
+        "Answers": {
+            "1 Docs": "services. If RDP is necessary, rigorously apply best practices",
+            "3 Docs": "resources",
+            "5 Docs": "resources",
+            "10 Docs": "resources"
+        }
+    },
+    {
+        "Filename": "aa21-008a_chunk_5.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is a crucial factor for detecting anomalous activity for Global Admin accounts in a Microsoft 3 Sixty Five environment",
+        "Answers": {
+            "1 Docs": "configurations, federation trusts, mail forwarding rules, service principals, and objects",
+            "3 Docs": "configurations, federation trusts, mail forwarding rules, service principals, and objects",
+            "5 Docs": "configurations, federation trusts, mail forwarding rules, service principals, and objects",
+            "10 Docs": "interacting"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_21.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the potential impact of the race conditions and memory vulnerabilities found in the Android code",
+        "Answers": {
+            "1 Docs": "User",
+            "3 Docs": "User",
+            "5 Docs": "User",
+            "10 Docs": "User"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_11.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the recommended approach for securing Windows server authentication in an environment where NTM is enabled",
+        "Answers": {
+            "1 Docs": "information). For Windows Server 2012R2, enable Protected",
+            "3 Docs": "information). For Windows Server 2012R2, enable Protected",
+            "5 Docs": "information). For Windows Server 2012R2, enable Protected",
+            "10 Docs": "information). For Windows Server 2012R2, enable Protected"
+        }
+    },
+    {
+        "Filename": "aa22-055a_chunk_2.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is contained in file T1308",
+        "Answers": {
+            "1 Docs": "information about the compromised machine to generate a string, with these fields separated by",
+            "3 Docs": "information about the compromised machine to generate a string, with these fields separated by",
+            "5 Docs": "The manipulation leads to use",
+            "10 Docs": "information about the compromised machine to generate a string, with these fields separated by"
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_3.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What are some indicators of phishing emails",
+        "Answers": {
+            "1 Docs": "software can create",
+            "3 Docs": "software can create",
+            "5 Docs": "interacting",
+            "10 Docs": "software can create"
+        }
+    },
+    {
+        "Filename": "icsa-24-074-07_chunk_24.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the potential impact of the vulnerability if left unpatched",
+        "Answers": {
+            "1 Docs": "vulnerabilities has been reported",
+            "3 Docs": "The manipulation leads to use",
+            "5 Docs": "The manipulation leads to use",
+            "10 Docs": "The manipulation leads to use"
+        }
+    },
+    {
+        "Filename": "home-network-security_chunk_4.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What are some ways to improve the security posture of a device or system when it is initially set up",
+        "Answers": {
+            "1 Docs": "software-based, these firewalls",
+            "3 Docs": "software-based, these firewalls",
+            "5 Docs": "software-based, these firewalls",
+            "10 Docs": "firewall has the most"
+        }
+    },
+    {
+        "Filename": "ar23-209a_chunk_6.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What does the passage tell us about the purpose of BSMTPD in this malware",
+        "Answers": {
+            "1 Docs": "information",
+            "3 Docs": "The manipulation leads to use",
+            "5 Docs": "information",
+            "10 Docs": "software and associated configuration files"
+        }
+    },
+    {
+        "Filename": "icsa-23-166-10_chunk_6.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the length of hostname that the function `clnt__create` can accept",
+        "Answers": {
+            "1 Docs": "overflow vulnerability was found in",
+            "3 Docs": "overflow vulnerability was found in",
+            "5 Docs": "The manipulation leads to use",
+            "10 Docs": "The manipulation leads to use"
+        }
+    },
+    {
+        "Filename": "aa23-059a_chunk_12.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of testing security control inventory against MITre ATT & CK techniques",
+        "Answers": {
+            "1 Docs": "Locations",
+            "3 Docs": "resources",
+            "5 Docs": "interacting",
+            "10 Docs": "information"
+        }
+    },
+    {
+        "Filename": "aa21-008a_chunk_4.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of acquiring an access Token for an application",
+        "Answers": {
+            "1 Docs": "Sentinel. According to CrowdStrike",
+            "3 Docs": "resources",
+            "5 Docs": "resources",
+            "10 Docs": "resources"
+        }
+    },
+    {
+        "Filename": "aa23-320a_chunk_3.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of creating a new account in a specific organization  What is its potential impact on the organizations security",
+        "Answers": {
+            "1 Docs": "instances",
+            "3 Docs": "instances",
+            "5 Docs": "interact with the victim\u2019s environment. When interacting",
+            "10 Docs": "interact with the victim\u2019s environment. When interacting"
+        }
+    },
+    {
+        "Filename": "aa21-008a_chunk_7.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of exporting the data from MailItemAccessed to a CSV file",
+        "Answers": {
+            "1 Docs": "Activity Reports [13] CrowdStrike: CrowdStrike",
+            "3 Docs": "Activity Reports [13] CrowdStrike: CrowdStrike",
+            "5 Docs": "Activity Reports [13] CrowdStrike: CrowdStrike",
+            "10 Docs": "information on network shares"
+        }
+    },
+    {
+        "Filename": "aa20-352a_chunk_3.txt",
+        "Chunk Size": 512,
+        "Generated Question": "What is the purpose of attaching authentication credential to Azure service principal  What are the potential risks associated with this practice",
+        "Answers": {
+            "1 Docs": "addresses",
+            "3 Docs": "resources",
+            "5 Docs": "resources",
+            "10 Docs": "resources"
+        }
+    }
+]

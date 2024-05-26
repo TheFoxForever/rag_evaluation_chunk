@@ -16,6 +16,7 @@ model = AutoModelForCausalLM.from_pretrained('mistralai/Mistral-7B-v0.1', device
 
 print("Model loaded.")
 
+# Adjust settings as needed
 def generate_question_and_answer(text, max_new_tokens=200, temperature=0.7, top_p=0.9, top_k=50):
     # Prepare the input text
     input_text = f"Read the following passage and generate a relevant question and answer based on its content:\n\n{text}\n\nQuestion:"
@@ -35,11 +36,10 @@ def generate_question_and_answer(text, max_new_tokens=200, temperature=0.7, top_
                 top_k=top_k,
                 pad_token_id=tokenizer.eos_token_id  # Explicitly set pad_token_id to eos_token_id
             )
-    
-    # Decode the output
+   
     generated_text = tokenizer.decode(output_ids[0], skip_special_tokens=True)
     
-    # Extract the question and answer parts
+    # Extract the question and answer part (if provided)
     question_start = generated_text.find("Question:") + len("Question:")
     question_end = generated_text.find("Answer:", question_start)
     question = generated_text[question_start:question_end].strip()
